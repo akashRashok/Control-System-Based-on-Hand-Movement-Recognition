@@ -11,4 +11,3 @@
 • Use a normal RGB camera for recognizing hand movements in real time.
 • Each gesture can be configured as per user requirements and executed.
 
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/11yjGs6mh1fCKPwdBHa5Rdz0GTtoXgAHg/view?usp=sharing)https://drive.google.com/file/d/11yjGs6mh1fCKPwdBHa5Rdz0GTtoXgAHg/view?usp=sharing)
