@@ -1,13 +1,59 @@
-# Control System Based on Hand Movement Recognition
+![image](https://github.com/akashRashok/Control-System-Based-on-Hand-Movement-Recognition/assets/57842319/5c8d89c2-25c9-4ad6-94a3-0c7ad02cd462)# Control System Based on Hand Movement Recognition
 
-# Project Objectives
-• Creating a cost-effective method for a more interactive experience.
-• Use a camera for recognizing hand movements in real time.
-• Creation of GUI-based integration software.
+This project implements a cost-effective, real-time hand movement recognition control system using an RGB camera. It's designed to provide a more accessible alternative to high-cost systems, utilizing Python and Unity for gesture recognition and visualization.
 
-# Proposed Solution
-• Creating a cost-effective control system.
-• Create a plug-and-use software that is supported in most systems.
-• Use a normal RGB camera for recognizing hand movements in real time.
-• Each gesture can be configured as per user requirements and executed.
+## Key Features
 
+- **Gesture Recognition**: Utilize the MediaPipe library to detect hand gestures with high fidelity.
+- **Gesture Mapping**: Map recognized gestures to specific commands using JSON files.
+- **Command Execution**: Execute actions mapped to recognized gestures with minimal delay.
+- **Visualization**: Display recognized gestures and their corresponding actions using Unity.
+
+## System Architecture
+
+The control system operates through a software interface that processes inputs from an RGB camera placed before the user. Gestures are recognized, mapped to commands, and visualized in real time, ensuring a seamless user experience.
+
+![System Architecture](link-to-image)
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x
+- Unity
+- MediaPipe
+- PySimpleGUI (for the control software GUI)
+
+### Installation
+
+1. Clone the repository
+2. Install the required Python libraries:
+pip install mediapipe opencv-python pysimplegui
+
+### Usage
+
+1. Run the control software: Control_system.exe
+2. Perform gestures in front of the RGB camera.
+3. Use the GUI to remap gestures and actions if necessary.
+
+## Performance
+
+The system achieves an average of 30 FPS across various hardware setups and demonstrates a gesture recognition accuracy of 90.2% under diverse lighting conditions.
+
+## Future Scope
+
+- Expand the system to detect more complex gestures using both hands.
+- Explore applications in various fields such as healthcare, engineering, and entertainment.
+
+## Contributors
+
+- [Akash Renuka Ashok](https://github.com/akashRashok)
+- [Gokul S]
+- [John Paul]
+- [Kevin Joe Sebastin]
+
+
+## Acknowledgments
+
+- Thanks to MediaPipe for the robust hand-tracking models.
+- Special thanks to all contributors and testers of the project.
