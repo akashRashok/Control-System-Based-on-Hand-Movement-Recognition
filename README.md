@@ -12,9 +12,7 @@ This project implements a cost-effective, real-time hand movement recognition co
 ## System Architecture
 
 The control system operates through a software interface that processes inputs from an RGB camera placed before the user. Gestures are recognized, mapped to commands, and visualized in real time, ensuring a seamless user experience.
-![Architecture](https://github.com/akashRashok/Control-System-Based-on-Hand-Movement-Recognition/assets/57842319/9f7058d4-988b-48ea-821c-00cd024b69d5)
-
-
+![Architecture](https://github.com/akashRashok/Control-System-Based-on-Hand-Movement-Recognition/assets/57842319/fed0ed4c-4624-4cf0-a0f1-f9949d0c1a2e)
 
 ## Getting Started
 
