@@ -1,4 +1,4 @@
-![image](https://github.com/akashRashok/Control-System-Based-on-Hand-Movement-Recognition/assets/57842319/5c8d89c2-25c9-4ad6-94a3-0c7ad02cd462)# Control System Based on Hand Movement Recognition
+# Control System Based on Hand Movement Recognition
 
 This project implements a cost-effective, real-time hand movement recognition control system using an RGB camera. It's designed to provide a more accessible alternative to high-cost systems, utilizing Python and Unity for gesture recognition and visualization.
 
